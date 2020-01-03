@@ -1,0 +1,11 @@
+
+Hi! This is Sangpo Lama
+<AUTHOUR> 
+
+In this project, I have been working doing multiple tasks and coding on POSIX, CUDA and MPI. The prime goal of this project is to  be involved in doing password cracking, image processing and linear regression.
+
+Password Cracking is the process of re-generating and recovering digital or formal given password that is basically store in particular system. We used different algorithm and function to recover such password in encrypted form. 
+
+Image Processing is the process where we perform multiple function on particular given image concerning its charectarization such as pixel of an image, size and take useful information from it. In this project, we are given individual image and file from which we had generated image from data.
+
+In Linear Regression, we have converted our give time to specific basecase time with constant variable of time. 
